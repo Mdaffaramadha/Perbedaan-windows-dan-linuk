@@ -32,8 +32,8 @@ Penggunaan	Cocok untuk pengguna umum dan gaming	Cocok untuk server, pengembang, 
 Dukungan Game	Banyak game populer mendukung Windows	Game di Linux terbatas, meskipun ada Steam Proton dan Wine
 Update	Sering update otomatis dan bisa memakan banyak ruang	Pengguna bisa mengontrol update sendiri
 
-![alt text](![Screenshot (48)](https://github.com/user-attachments/assets/70e077bf-3006-48bc-9b32-f601f56e788b)
-?raw=true)
+![Screenshot (48)](https://github.com/user-attachments/assets/70e077bf-3006-48bc-9b32-f601f56e788b)
+
 
 # Keunggulan dan Kekurangan
 WINDOWS
@@ -70,6 +70,7 @@ Kekurangan Linux:
 Antarmuka dan cara pengoperasiannya berbeda dari Windows.
 Butuh sedikit belajar terutama untuk perintah terminal.
 Tidak Semua Software Populer Tersedia
+
 
 # Kesimpulan
 Gunakan Windows jika ingin kemudahan, kompatibilitas software luas, dan dukungan gaming.
